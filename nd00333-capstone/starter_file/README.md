@@ -108,7 +108,7 @@ The best performing model was a voting ensemble from AutoML and this was deploye
 
 ## Screen Recording
 
-![video](https://youtu.be/uhN5C-WRTbQ)
+https://youtu.be/uhN5C-WRTbQ
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
